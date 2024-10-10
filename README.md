@@ -1,7 +1,7 @@
 ![MasterHead](https://media0.giphy.com/media/KAvSc40hSg17F1Z446/100.webp?cid=ecf05e47syvhyohyo6p8jivkrsdivjtwf93ztvcanmqiu3og&ep=v1_gifs_search&rid=100.webp&ct=g)
 
 <h1 align="center">Hi 👋, I'm Sudhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 <img
   align="right"
   alt="coding"
